@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An essay to ecclesiastical reconciliation humbly offered to the consideration of all peaceable and good Christians / by a lover of peace.</title>
+            <author>Lover of peace.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38632</idno>
+            <idno type="STC">Wing E3293</idno>
+            <idno type="STC">ESTC R26798</idno>
+            <idno type="EEBO-CITATION">09546782</idno>
+            <idno type="OCLC">ocm 09546782</idno>
+            <idno type="VID">43579</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38632)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43579)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1330:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An essay to ecclesiastical reconciliation humbly offered to the consideration of all peaceable and good Christians / by a lover of peace.</title>
+                  <author>Lover of peace.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian union --  England.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43579:1"/>
+            <pb facs="tcp:43579:1" rendition="simple:additions"/>
+            <p>AN ESSAY TO Eccleſiaſtical Reconciliation, HUMBLY Offered to the Conſideration of all Peaceable and Good Chriſtians.</p>
+            <p>
+               <hi>By a Lover of Peace.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed <hi>Anno Domini,</hi> 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="essay">
+            <pb facs="tcp:43579:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:43579:2" rendition="simple:additions"/>
+            <head>AN ESSAY Conducing to Eccleaſtical Reconciliation.</head>
+            <p>THat the World does too much abound with Men, who (to their different perſwaſions in points of Religion,) have not only Annex'd their parti<g ref="char:EOLhyphen"/>cular Intereſt and Animoſities, but hold them<g ref="char:EOLhyphen"/>ſelves likewiſe more than needfully obliged to continue their Diſcord on their own Terms or Truths not more known than deplor'd by the Conſcientious, and Wiſe that have penetrated into their evill Effects, both on the Ec<g ref="char:EOLhyphen"/>cleſiaſtical and Civil Account.</p>
+            <p>And if theſe Conſequences be evidently, ſuch as no rea<g ref="char:EOLhyphen"/>ſonable Man can in Fact deny: Is it not wonder enough, that Men ſhould be rather oppoſers by a continu'd aſſert<g ref="char:EOLhyphen"/>ing of Notions that muſt make Controverſies endleſs, then Promoters of Union by Amicable and Reaſonable Me<g ref="char:EOLhyphen"/>thods of Reconciliation: When none of them will deny that the Latter would not be a far more Divine Imploy<g ref="char:EOLhyphen"/>ment of their Abilities than the Former.</p>
+            <p>But <hi>Roman Catholicks,</hi> and <hi>Proteſtants,</hi> (however they deſire to be accounted Charitable, either as Men or Chri<g ref="char:EOLhyphen"/>ſtians,)
+<pb n="2" facs="tcp:43579:3" rendition="simple:additions"/>have too) frequently taken far different meaſures; Nay ſuch as have farther manifeſted their ſtrenuous Endea<g ref="char:EOLhyphen"/>vours to continue their divided Doctrines, then to Diſpute themſelves into a moderate accommodation. And this not a little appears to be the <hi>Genius,</hi> If not Boaſt, of their Polemick Diſputants, who have either thinn'd, or wire<g ref="char:EOLhyphen"/>drawn their diſſentions to their utmoſt Litigious Extent, however they appear leſs modeſt or ſolid thereby; Or to render them worſe, have Repreſented them by more ugly Figures then were either proper or needful. As if their Controverſies in Religion could not be manag'd ſecurely without the help of ſome more than ordinary Bugs, to afright others.</p>
+            <p>And this they have done, tho' little to the advantage of their Reputations, how plentifully ſoever they have powr'd their Wit and Talents of Literature, into Volumes ſwell'd more then ordinary to this purpoſe.</p>
+            <p>The ſight of whoſe numerous Titles, (without further Inſpection into their Bulks,) are certainly enough to Anti<g ref="char:EOLhyphen"/>cipate a Loathing of their peruſal by any<g ref="char:punc">▪</g> Reaſonable Man, who would be glad to be ſignificantly Inſtructed in a leſſer compaſs: Or what had been better then all, to have been gentler inform'd from ſuch Mens Abilities, how Chriſtian Peace and Reconciliation might redound from their Endeavours, together with what Propoſals they would tender in order to a Charitable, and ſufficient ac<g ref="char:EOLhyphen"/>commodating of Points in difference. But theſe Men, that have labour'd by their handling of controverted opinions to induce a Conceſſion from others, that the Polemicks of Religion ought to be endleſs, or that their ſucceſsful paſſage to a Chriſtian accommodation, is not eaſier to be found than the North-weſt Voyage to the <hi>Indies,</hi> muſt certain<g ref="char:EOLhyphen"/>ly acknowledge how nice or Refractory their Aſſertions are of this kind; If but for undervaluing of their own and
+<pb n="3" facs="tcp:43579:3" rendition="simple:additions"/>other Mens Ingenuities, or what the World might have Reaſon to expect from their Performances.</p>
+            <p>Conſidering, that ſuch Perſons, who have all along ſharpen'd diſputes amongſt Chriſtians, have not given ſuf<g ref="char:EOLhyphen"/>ficient leaſure to themſelves, or others, to conſider duly why they ought not rather to unite and agree upon fit<g ref="char:EOLhyphen"/>ing Terms, than to Litigate farther what they have not been able in the compaſs of more than an Age to decide.</p>
+            <p>And this I think ought Reaſonably to be expected from them, both on the part of <hi>Roman Catholicks</hi> and <hi>Proteſtants,</hi> who cannot doubt but ſuch as have written more than enough to extend Diſputations, ſhould be of all men beſt able to tender things fit for Chriſtian Reconcilement: Unleſs they will acknowledge that they are more accurate in maintaining of Diſſentions, than in arguing or per<g ref="char:EOLhyphen"/>ſwading men to be quiet.</p>
+            <p>The firſt Entailers of Controverſy, betwixt <hi>Roman Ca<g ref="char:EOLhyphen"/>tholicks</hi> and the Church of <hi>England,</hi> how far ſoever they intended their Diſputes ſhould improve by deſcent, would find, (were they now alive,) that their preſent adherents have been able to add ſo little to their Structures of Separa<g ref="char:EOLhyphen"/>tion, by way of Argument, that this grand Controverſy betwixt <hi>Rome</hi> and <hi>England</hi> ſeems by degrees to have run it ſelf out of breath. And tho' ſome heated Preachers, have as yet Lungs ſtrong enough to vent their Pulpit-animoſi<g ref="char:EOLhyphen"/>ties; It is certain, that they are neither able to talk, or pen other matter than what has over and over been handled before. Inſomuch, that Poſterity can receive nothing from the Pulpit or Preſs, other than the ſcraps of prece<g ref="char:EOLhyphen"/>dent Controverſy, anew-cook'd, or plauſibly varied, to gratifie ſome preſent Pallats. But if they are at a ſtand, or <hi>non-plus,</hi> on that account at this day, would it not well become ſuch Sticklers, (if not the Endeavours of the more moderately Learn'd and Pious,) to ſpend ſome Por<g ref="char:EOLhyphen"/>tion
+<pb n="4" facs="tcp:43579:4" rendition="simple:additions"/>of their Studies in Methodiſing a Chriſtian Accord. There being little Reaſon to doubt that a ſmall Healing-Seaſon, well Imploy'd, would not produce more Chri<g ref="char:EOLhyphen"/>ſtian Union and Felicity, than a far longer paſt-time has been able to Violate.</p>
+            <p>And ſince it does plainly appear, that the Deciſion of this Controverſie is like a Weight that will not be pull'd to either ſide by force of Argument; what then does ſo naturally Emerge from <hi>Roman Catholicks</hi> and Church of <hi>England-Proteſtants,</hi> as by their Reciprocal Conſents, to accommodate their Differences.</p>
+            <p>And whoſoever Affirms that they cannot Reconcile or Agree on what is ſufficient for their Publick Worſhip and Devotion, muſt fondly cenſure that there are fewer Wiſe and Good Chriſtians, then would be found if this task with Religious and ſafe Freedom were committed to their Undertakings.</p>
+            <p>In the mean time, I cannot but Inſtance, that as the Schools, on all ſides, have great Reaſon to ceaſe their fiery Expectations of overthrowing their Adverſaries by their Pens; ſo muſt it likewiſe be granted, that neither the power of the Sword, nor the moſt Rigid Execution of Laws, will ever compaſs a full Conviction of Oppoſers, or reduce their Conſcientious Submiſſion to the Eſtabliſh<g ref="char:EOLhyphen"/>ment of adverſe Tenents in Worſhip. And this is ſo well known from the Many Wars, Maſſacres, Executions, and Bloody Contrivances, both at Home and Abroad, as they need not be here repeated, otherwiſe than to let the Bigots of oppoſition, diſcern (from ſuch Rigid and Sanguinary preſidents,) how Inneffectually their Animoſi<g ref="char:EOLhyphen"/>ties have hitherto been managed: As alſo how Diſobli<g ref="char:EOLhyphen"/>ging and Pernicious they have been heightend, to the Diſ<g ref="char:EOLhyphen"/>uniting of their Subjection, both Eccleſiaſtical and Civil. Inſomuch, that the Supream Magiſtrates have been highly
+<pb n="5" facs="tcp:43579:4"/>prejuduc'd, whenſoever ſuch Zealous Antagoniſts have had any prevalent Intereſt in their Nation.</p>
+            <p>On the contrary, it is very Evident, that had Men of theſe averſe and inflam'd Denominations abated ſeaſon<g ref="char:EOLhyphen"/>ably the Rigidneſs of their Expectations and Tenents, and had accordingly Influenc'd the Gracious Inclination of Princes and Magiſtrates, they could not have miſs'd, with far leſs trouble to themſelves, and others; The producing of a convenient Reconciliation, whereby their King and Country might have been at once oblig'd to their Endeavours.</p>
+            <p>But it is enough manifeſt, that the obſtructing of ſo Pious and ſo Glorious an Undertaking, has leaſt pro<g ref="char:EOLhyphen"/>ceeded from the Averſeneſs of any Soveraign Ruler, be<g ref="char:EOLhyphen"/>cauſe in prudence it could not be ſuch, either in a Prince judicious of himſelf, or that is influenc'd, as he ought by a Conſcientious and Diſcerning Miniſtry. Or not from ſuch, who have improv'd their times and opportunities to enveterate Men under the names of Superſtitions, or Ido<g ref="char:EOLhyphen"/>laters on one hand, and Schismaticks and Hereticks on the other. And that they have occaſionally done ſo, (for ends perhaps none of the beſt,) is very palpable, in reſpect they have ſo little made it a caſe of Conſcience to do other<g ref="char:EOLhyphen"/>wiſe. And thus from the time of Diviſions in Religion that began in <hi>Henry</hi> the VIII. dayes, there has not been publiſhed to the World any remarkable Expedients where<g ref="char:EOLhyphen"/>by their Fellow-Subjects may be convinc'd that a Recon<g ref="char:EOLhyphen"/>ciliation is neceſſary in Doctrine and Worſhip.</p>
+            <p>If any man ask how this may be effected, or leaſt he Judge, that propoſals of this Nature, ſeem rather Plauſi<g ref="char:EOLhyphen"/>ble than Poſſible: I conceive it were enough Briefly to inform ſuch an enquirer that there muſt be a due and diſcreet Remiſſion of the Rigour and Extremities of ſome Points, where they touch too hard, that are moſt Eſſentially Controverted.</p>
+            <pb n="6" facs="tcp:43579:5"/>
+            <p>If this had not been omitted by Men that have either writ or diſcuſs'd in behalf of either Perſwaſion, they would not have ſtill Endeavour'd, that all, either Taught, or practis'd by either Church ſhould be fully received by force of Diſputation. Whilſt they have never urged, but rather totally declin'd the propoſing of what might be held ſufficiently enough, provided all Men would accord on thoſe Terms.</p>
+            <p>Perhaps a <hi>Roman Catholick</hi> may here reply, that his Church has put an end to this Diſcuſſion, or what may be tender'd on the account of accommodation by any Church divided from Her, by ſaying that the <hi>Roman</hi> Church has already determin'd her Propoſals to be Infallible, and con<g ref="char:EOLhyphen"/>ſequently to be ſo receiv'd.</p>
+            <p>In Anſwer to which, it may be ſaid, that the <hi>Roman</hi> Church has not determin'd, that the Belief of enough, is not ſufficient, or that it is impoſſible for any Church to Unite with Her in Believing what is neceſſary to Salva<g ref="char:EOLhyphen"/>tion, that does not equally Profeſs and Practiſe all things that for the moſt part are received within Her Commu<g ref="char:EOLhyphen"/>nion: Or that ſhe cannot qualifie, or remit ſome of her Tenents, or Forms of Worſhip when ſhe ſhall think fit to accommodate with any other Church.</p>
+            <p>When any <hi>Roman Catholick</hi> can ſhew that ſuch parti<g ref="char:EOLhyphen"/>culars are not within the power of his Church to miti<g ref="char:EOLhyphen"/>gate, or ſuperſede, in order to Chriſtian Tranquility, and the uniting of Souls, nay Kingdoms, by ſo Charitable and Famous a Conceſſion; I will then grant all that is here urg'd to be as Fruitleſs or Inſignificant, as any man is pleas'd to imagine. Nay, what is worſe, that it lyes not in the Power of Chriſtians to be as Wiſe, and Charitable as the common Dictates of Humanity would Imply.</p>
+            <pb n="7" facs="tcp:43579:5" rendition="simple:additions"/>
+            <p>Beſides, it is very apparent that the Decrees of Coun<g ref="char:EOLhyphen"/>cels have not a little been miſapprehended, if not farther enlarg'd than ever was intended by their Canons or Re<g ref="char:EOLhyphen"/>ſolutions in matters ſtrictly tending to Salvation. For Example, there are Many Decrees of Councels that affirm that ſuch and ſuch Doctrines ſhall not be deny'd, which is no more then a Negative manner of Confirming the Au<g ref="char:EOLhyphen"/>thority of their Church: But is there any one Decree of any Council that does Anathematize all Perſons that do not outwardly Profeſs, and Practiſe all things that are con<g ref="char:EOLhyphen"/>tain'd within it's Decrees.</p>
+            <p>If there are Councels that have determined the con<g ref="char:EOLhyphen"/>veniency of Praying to Saints and Worſhipping of Images; Is there any of theſe Councels that do declare him to be damn'd, that does neither, or at leaſt not directly in the ſame Senſe and Words of Others.</p>
+            <p>Certainly there is no ſuch Doctrine or Determination to be found, however pretended in order to keep Churches aſunder, by ſuch as are better pleas'd with needleſs Diſ<g ref="char:EOLhyphen"/>putations then Religion or Conſcience do oblige.</p>
+            <p>It cannot be deny'd, that the Church of <hi>Rome</hi> is ſtrict in aſſerting her Decrees, and ſhe could not have the Repu<g ref="char:EOLhyphen"/>tation of a Church, did ſhe do otherwiſe; and to hold her ſelf ſo far free from Error, is no other in effect then to aſ<g ref="char:EOLhyphen"/>ſure she World, that ſhe would not have Error laid to her Charge, or in bolder Terms have the Lie given her by way of Diſputation. And thus it is very evident that there is a great difference betwixt the Latitude of an Eccleſiaſtical Determination, or allowance, and the neceſſity of enjoyning an Univerſal Conformity in every Particular.</p>
+            <p>If the Churches of <hi>Rome</hi> and <hi>England</hi> ſhould conclude of Doctrines ſufficiently neceſſary for Publick Communion here, there is no <hi>Roman Catholick</hi> or <hi>Proteſtant</hi> of this Church, but muſt concede, that the allowance of both
+<pb n="8" facs="tcp:43579:6" rendition="simple:additions"/>Churches, is an effectual Motive to produce their Charita<g ref="char:EOLhyphen"/>ble Accord, whereby they may be induc'd to perform their Devotions within the Walls of one Church. And were this duely diſpos'd, I ſee no Reaſon why <hi>Protestants</hi> ſhould not be as thankful to the <hi>Pope,</hi> and Church of <hi>Rome,</hi> as they would be to their own Arch-biſhop of <hi>Canterbury,</hi> and his Convocation for an Expedient ſo pious and uſeful to the Service of God, their King and Country.</p>
+            <p>And leaſt it be held Inſignificant to propoſe a Reconcilia<g ref="char:EOLhyphen"/>tion in general betwixt theſe Churches, without giving Example how this may be effected, as to things that require the moſt Accurate and Eſſential Deciſion, I will here, inſtead of other, touch Briefly the main yet-undertermin'd diffe<g ref="char:EOLhyphen"/>rence, and which has hitherto continu'd, as I may ſay, the Heart of their Controverſie, and that is the Sacrament of the Euchariſt, and the manner of receiving Chriſt thereby.</p>
+            <p>As to this Sacrament, the Church of <hi>Rome</hi> has defin'd the Body of Chriſt to be really preſent after Conſecration; and this the Church of <hi>England</hi> ſeems after a manner, or rather by other Words to oppoſe, then totally to deny it, as ſhall ſoon appear.</p>
+            <p>The Church of <hi>Rome</hi> calls the Sacrament the <hi>Body of Chriſt,</hi> and the Church of <hi>England</hi> does ſo too, as it is to be ſeen in both their Liturgies. But the manner how our Lords Body is in the Euchariſt, has as yet been the Diſpute. Tho' more as it has been worded on both ſides, than really different. For tho' <hi>Roman Catholicks</hi> affirm that the Body of their Lord is in the Sacrament, they do not aſſert; nor is there any general Councel, as I conceive, that has deter<g ref="char:EOLhyphen"/>min'd, whether the Body of Chriſt that was born of the Bleſſed Virgin, and now glorified in Heaven does remain under the <hi>Species</hi> of Bread in the Euchariſt. But in Sub<g ref="char:EOLhyphen"/>ſtance that the Sacrament does contain the Body and Blood of their Redeemer, without determining the utmoſt Ex<g ref="char:EOLhyphen"/>tent
+<pb n="9" facs="tcp:43579:6"/>of the Miracle, or whether it were only his Natural Body, as it was once on Earth, or his Body that has now a more glorious being above.</p>
+            <p>But taking the word Body from the Literal Expreſſion of the Scripture, have thought it ſufficient from thence to Terminate their Belief of the Real Preſence in the Bleſſed Sacrament.</p>
+            <p>Neither has the Church of <hi>Rome,</hi> as was inſtanc'd before in the Doctrine of Praying to Saints, and Worſhipping of Images, pronounc'd Damnation to any that ſhould doubt of the certainty of her Tenent in this particular, tho' ſhe has declar'd her <hi>Anathema</hi> againſt ſuch as ſhould deny the Validity of her Declaration. There being a vaſt difference betwixt the doubting of the ſenſe of a Propoſition of the Church, and a peremptory dehial of its Truth. Since it is not poſſible for the Church to have aſſurance that every Individual Perſon within her Communion does not doubt of any one Article of Faith that ſhe has propos'd.</p>
+            <p>So that all Fundamental Error, of this kind, muſt rather conſiſt in a Poſitive Denial of what the Church has Averr'd to be Truth, than in being not able to underſtand the man<g ref="char:EOLhyphen"/>ner of her Propoſal.</p>
+            <p>And if this Latitude be not granted to Men, the Antient Fathers of the Church, (whoſe opinions in many Doctrines are not without Heſitation or doubt,) muſt fall under very harſh-Cenſures, as well as others that have reſerv'd their private opinions within the compaſs of their Boſoms.</p>
+            <p>Nor can it be affirm'd (from what hath been mention'd before) that the Church of <hi>England</hi> does peremptorily de<g ref="char:EOLhyphen"/>ny the preſence of Chriſts Body in the Sacrament, ſince in her own Words ſhe does Communicate the Body of our Lord unto her Receivers. And has likewiſe declar'd it ſo to be believ'd, a neceſſary Doctrine; for what elſe does imply her Conſecrating of the Body of Chriſt after a Spiri<g ref="char:EOLhyphen"/>tual
+<pb n="10" facs="tcp:43579:7" rendition="simple:additions"/>manner. Neither is it leſs Stupendious, if rightly con<g ref="char:EOLhyphen"/>ſider'd, to feed upon Chriſts Body in a Spiritual manner, according to the Expreſſion of the Church of <hi>England,</hi> than to receive him carnally into the mouth of the Commu<g ref="char:EOLhyphen"/>nicant. Since either way muſt of neceſſity be more intelli<g ref="char:EOLhyphen"/>gible to Faith than Reaſon, as all things of Religion are whoſe Miraculous Truths fall not under the evidence of Hu<g ref="char:EOLhyphen"/>mane Senſe and Demonſtration. What then remains ſo naturully to cloſe this Diſpute, as to grant on all hands that the Body of our Lord is given or contain'd in the Sa<g ref="char:EOLhyphen"/>crament after a Super-natural manner? And if ſo, what can be ſo proper an Expedition to reconcile the Diſcuſſions of this Doctrine, as to concede that Men ought to allow the Miracle without Diſputing the manner how.</p>
+            <p>And if both Churches would come to this underſtanding in order to the uniting of their Judgements on the account of this Extraordinary Point of Controverſie, there is little doubt but other Matters, yet in Conteſt, would receive a ſoon Period.</p>
+            <p>If any man ask, why a Divine Reconcilement in things of Religion has not been made the Endeavour of former Princes, ſince in all the Revolutions, of that kind, that have emerg'd from the time of Reformation of Religion here, the very Nerves of the Government have been more or leſs chang'd or weaken'd thereby, in reſpect, that whereſoever Subjects are not united in Belief, the Regiment of Princes muſt needs be leſs abſolute or ſafe. To which, there can no anſwer be given, other than that Supream Magiſtrates have been more inclinable to depend upon their Decrees, and the Severity of their Laws, than by applying means of Spi<g ref="char:EOLhyphen"/>ritual Union, whereby their Subjects might be reduc'd not only to Eccleſiaſtical obedience, but likewiſe to joyn their Souls to the perſwaſion of their Prince where their opinions have been otherwiſe different.</p>
+            <pb n="11" facs="tcp:43579:7"/>
+            <p>And this was unhappily the miſtake of <hi>Henry</hi> the VIII. tho' perhaps diſcern'd by ſome of his Succeſſors. For he, however Severe he was by Nature, could not be delighted to perſecute at one time <hi>Roman Catholicks,</hi> and whatſoever opinion beſides that was different from what he call'd the Reformation eſtabliſh'd by his Soveraign Decrees. A Crime too hainous to be imputed to any Chriſtian King, or rather to be attributed to his not weighing conſiderately the Meaſures taken by his Will. Not apprehending, that whereſoever there are men divided in Worſhip, and in do<g ref="char:EOLhyphen"/>ing ſo, have likewiſe acknowledg'd ſeveral Eccleſiaſtical Juriſdictions, that it is impoſſible to Reconcile or Terminate the perſwaſions of ſuch, unleſs by the common conſent of the Divine Juriſdictions which they have own'd to be their Conduct in Spiritual Affairs and Government.</p>
+            <p>Thus, if the <hi>Roman</hi> and <hi>Engliſh</hi> Church ſhould Endea<g ref="char:EOLhyphen"/>vour an accommodation in Point of Juriſdiction and Doctrine, it muſt be produc'd by Perſons properly dele<g ref="char:EOLhyphen"/>gated by their ſeveral Juriſdictions; and there is little doubt but an accord might be produc'd by this method, in re<g ref="char:EOLhyphen"/>ſpect, (as has been already Recited,) it would not be diffi<g ref="char:EOLhyphen"/>cult to concenter in what were ſufficient for both Churches to Remit, or Eſtabliſh.</p>
+            <p>Nor can it be apprehended that any ſecular power would ever after attempt their ſeparation, by Reaſon that no Su<g ref="char:EOLhyphen"/>pream Civil Magiſtrate could be ſo imprudently influenc'd as to weaken the greatneſs and intereſt of his Rule by ſuffer<g ref="char:EOLhyphen"/>ing his Subjects to return to their paſt Diviſions by any conſent from his Authority and Laws.</p>
+            <p>If the Church of <hi>England</hi> does claim Authentick Confir<g ref="char:EOLhyphen"/>mation at this day both by Eccleſiaſtical and Perliamentary Determinations, it is no leſs certain that in the time of our Fore-fathers, (or not much longer ago than a Century of Years will amount to,) that <hi>Roman Catholicks</hi> had as fully the outward face of Government on their ſide.</p>
+            <pb n="12" facs="tcp:43579:8" rendition="simple:additions"/>
+            <p>And can any man Judge it unreaſonably mov'd, or at<g ref="char:EOLhyphen"/>tempted now, if their Reconciliation ſhould be propos'd by the ſame means and power that formerly effected their Diſ-union? Certainly no, ſince it cannot but be thought a far leſs Novelty, and much a better Work, to eſtabliſh a Chriſtian Reconciliation, than to continue uncharitable Diviſions.</p>
+            <p>And becauſe ſome men ſuffer themſelves to be inveigl'd by the ſpecious Diſcourſes of Toleration in Point of Reli<g ref="char:EOLhyphen"/>gion, (a Liberty I confeſs that may be in ſome ſenſe indulg'd, where a better and ſurer method cannot be attain'd,) yet doubtleſs there is no man that can be ſo far miſtaken as to conceive that there is any ſhadow of conveniency, redoun<g ref="char:EOLhyphen"/>ding from the Licenſe of Tolleration, to be compar'd, in the leaſt degree, with the fix'd aſſurance and comfort of Spiri<g ref="char:EOLhyphen"/>tual concord.</p>
+            <p>And if there be any that will Judge otherwiſe, their Chriſtianity muſt want ſome grains of Charity as well as Prudence: In reſpect that if ſuch a Licenſe be once Eſta<g ref="char:EOLhyphen"/>bliſh'd, all means of uniting different Churches and Per<g ref="char:EOLhyphen"/>ſwaſions muſt totally vaniſh.</p>
+            <p>If Tolleration of divided Faith be conſider'd, as it re<g ref="char:EOLhyphen"/>ſpects God, whoſe Eſſenſe is one. It cannot be held in any Tollerable ſenſe obliging, to Heaven. Neither can there be any aſſurance given how pernitiouſly far, or ab<g ref="char:EOLhyphen"/>ſurdly, ſuch may divide or ſeperate, if Licens'd by Autho<g ref="char:EOLhyphen"/>rity; from all which is enough inferr'd the evil and dan<g ref="char:EOLhyphen"/>gerous conſequence of Univerſal Tolleration. And as to the Civil Magiſtrate the Enormities and Prejudices would be ſo great, that by allowing a Tolleration he would by his own conſent enfeeble his Scepter both on the Eccleſia<g ref="char:EOLhyphen"/>ſtical and Civil Account. And what is worſe, allow men to be more Erroneous or wicked, than in Prudence or Conſcience he ought to concede.</p>
+            <pb n="13" facs="tcp:43579:8" rendition="simple:additions"/>
+            <p>If there were any hopes that ſuch men would at any time inſpect the unreaſonableneſs of their Diviſions, or be weary of being impertinent <hi>Antagoniſts,</hi> there were ſome<g ref="char:EOLhyphen"/>thing to be ſaid in behalf of Tolleration.</p>
+            <p>But Alas! the contrary would be ſoon diſcern'd; for They (inſtead of any Ceſſation or Reconcilement) would hold themſelves oblig'd, or intereſted to continue their Animoſities, by urging of Diſputes, boaſting of their daily Increaſe, Riches, and Power, in hope at laſt that ſome one of them may be paramount on all Accounts, and bend to their ends the Dominion they are under.</p>
+            <p>Whereas an accommodation betwixt Churches that have had Sovereign Authority, and Law Reciprocally, their de<g ref="char:EOLhyphen"/>fence, were a Chriſtian Expedient not to be parallel'd,</p>
+            <p>If <hi>Engliſh</hi> Princes of the ſame Perſwaſion as the Church of <hi>England</hi> now profeſſeth, did not foreſee this Convenien<g ref="char:EOLhyphen"/>cy, or thought it not their duty to compoſe this Work, or by Reaſon of ſome Circumſtances or Emergencies in their times, held it not ſo ſafe or Beneficial to be ſet forward, as in this preſent Juncture may appear to diſcerning Judg<g ref="char:EOLhyphen"/>ments, and moſt particularly to the Royal prudence of the Religious and Famous King that now Swayes the <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Scepter, in reſpect that his Perſwaſion is granted to be different from the Church he here Governs; Would any man, (of a due Chriſtian Spirit and Allegiance,) not ap<g ref="char:EOLhyphen"/>plaud his Piety and Magnanimity, above all his Predeceſ<g ref="char:EOLhyphen"/>ſors, ſhould he Endeavour to Incorporate his Faith with his Subjects, by Reconciling both Churches on ſuch Terms as ſhould reaſonably require their common Union; where<g ref="char:EOLhyphen"/>by his People might have a more Conſcientious regard and truſt towards Him, as well as greater Chriſtian con<g ref="char:EOLhyphen"/>fidence in one another: And by which means the Penalties and Rigour of Laws, that have in their Seaſons irritated oppoſitions, and griev'd the Conſciences of his People,
+<pb n="14" facs="tcp:43579:9" rendition="simple:additions"/>might be Abrogated by raiſing an Eſtabliſh'd Reconcilia<g ref="char:EOLhyphen"/>tion in their ſtead; and ſuch a one as would prove too firm for future times to ſubvert, whilſt Chriſtianity and Kingly Government ſhall have joynt intereſt in this Nation; becauſe that in Conſcience and Policy it would be too valuable a bleſſing to be infring'd by any ſubſequent change, as has been already explain'd. I ſay, he that would reſent this Endeavour of his Soveraign, may as well take it ill, that his King is of a Pious and Charitable Inclination, or that he would invite his Subjects to embrace the moſt entire and peaceable methods of obedience by the dictates of Reaſon rather than by conſtraint.</p>
+            <p>And whoſoever is otherwiſe affected, is not worth the trouble of a Diſpute, or what has been made manifeſt by this ſhort Eſſay, which does but inſtance in part, or ra<g ref="char:EOLhyphen"/>ther awakens others in their proper ſpheres fully to com<g ref="char:EOLhyphen"/>pleat ſo Commodious and Pious an Undertaking.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43579:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
